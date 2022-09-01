@@ -1,1 +1,2 @@
-# Data-Visualization-F1-Project
+# DataVizProject F1
+ F1 data visualization project
